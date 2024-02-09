@@ -1,5 +1,5 @@
 name: Main Kittygram workflow
-on: push:
+on: push
 jobs:
   tests:
     runs-on: ubuntu-latest
